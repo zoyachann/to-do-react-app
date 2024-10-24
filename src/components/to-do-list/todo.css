@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Gupter:wght@400;500;700&family=Kalnia+Glaze:wght@100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Gupter", serif;
+    background-image: url('../../assests/photo-1542281286-9e0a16bb7366.jfif');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.app-container {
+    height: 100vh;
+}
+
+.card {
+    width: 450px;
+    border-radius: 10px;
+
+}
